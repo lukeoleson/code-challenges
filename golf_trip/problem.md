@@ -1,0 +1,1 @@
+Given a list of expenditures in a group of people, figure out the most efficient way to transfer money between them so that no one owes anyone.
