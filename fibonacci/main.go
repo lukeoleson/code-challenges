@@ -23,7 +23,7 @@ func sequentialFib(n int) {
 // calculate the fibonacci numbers - it is not calculating them concurrently
 // though - just printing in one routine and calculating in the other.
 //
-// Example of the builder pattern.
+// Example of the generator pattern.
 func concurrentFib(n int) {
 
 	for i := range fibonacci(n) {
